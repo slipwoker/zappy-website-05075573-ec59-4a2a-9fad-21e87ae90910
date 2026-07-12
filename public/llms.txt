@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://14-05075573.zappy5.app
+https://example.com
 צריכים מכתב התראה מקצועי במהירות? עורך דין מומחה מכין לכם מכתבי התראה ותביעות קטנות תוך 24 שעות. ייעול משפטי נגיש ואפקטיבי לכל כיס. לחצו עכשיו לפרטים!
 
 ### שירותים
-https://14-05075573.zappy5.app/services
+https://example.com/services
 גלו את מגוון השירותים: מכתבי התראה לעסקים קטנים, כתבי תביעה לתביעות קטנות ועוד. מסמכים משפטיים מדויקים תוך 14 שעות במחיר נגיש. התחילו עכשיו בדרך לפתרון!
 
 ### אודות
-https://14-05075573.zappy5.app/about
+https://example.com/about
 מאחורי מכתבי ההתראה המהירים עומד עורך דין מנוסה שמאמין שצדק צריך להיות זמין לכולם. קראו על החזון, המקצועיות והמחויבות ליעילות משפטית ללא פשרות.
 
 ### שאלות נפוצות
-https://14-05075573.zappy5.app/faq
+https://example.com/faq
 מתלבטים איך זה עובד? קבלו תשובות לשאלות נפוצות על מכתבי התראה, תביעות קטנות ועלויות. כל מה שצריך לדעת לפני שפונים — במקום אחד. גללו עכשיו לשקט נפשי!
 
 ### צור קשר
-https://14-05075573.zappy5.app/contact
+https://example.com/contact
 מוכנים לפעול? השאירו פרטים ונחזור אליכם במהירות עם מכתב התראה או כתב תביעה מותאם אישית. אל תתנו לבירוקרטיה לעכב אתכם — דברו איתנו עכשיו!
 
 ### Products
-https://14-05075573.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מכתבי התראה של עו"ד תוך 14 שעות
 
 ### Cart
-https://14-05075573.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://14-05075573.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://14-05075573.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://14-05075573.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://14-05075573.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://14-05075573.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מכתבי התראה של עו"ד תוך 14 שעות
 
 ### Category
-https://14-05075573.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מכתבי התראה של עו"ד תוך 14 שעות
 
 ### תודה שפנית אלינו
-https://14-05075573.zappy5.app/thank-you
+https://example.com/thank-you
 מכתבי התראה של עו"ד תוך 14 שעות - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://14-05075573.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://14-05075573.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://14-05075573.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Legal Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://14-05075573.zappy5.app/sitemap.xml
-- Robots: https://14-05075573.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://14-05075573.zappy5.app/llms-full.txt
-- Products (JSON): https://14-05075573.zappy5.app/products.json
-- Products (Google Merchant RSS): https://14-05075573.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
