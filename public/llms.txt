@@ -1,0 +1,109 @@
+# מכתבי התראה של עו"ד תוך 14 שעות — Generative Engine Optimization Map
+
+> A legal services website for a lawyer specializing in drafting warning letters and small claims lawsuits. The key differentiator is speed — documents are delivered within 24 hours. The service targets individuals who need professional legal documentation quickly, without the lengthy process of traditional legal representation. The brand positioning revolves around accessibility, efficiency, and professional legal expertise for everyday people.
+
+---
+
+## Pages
+
+### בית
+https://14-05075573.zappy5.app
+צריכים מכתב התראה מקצועי במהירות? עורך דין מומחה מכין לכם מכתבי התראה ותביעות קטנות תוך 24 שעות. ייעול משפטי נגיש ואפקטיבי לכל כיס. לחצו עכשיו לפרטים!
+
+### שירותים
+https://14-05075573.zappy5.app/services
+גלו את מגוון השירותים: מכתבי התראה לעסקים קטנים, כתבי תביעה לתביעות קטנות ועוד. מסמכים משפטיים מדויקים תוך 14 שעות במחיר נגיש. התחילו עכשיו בדרך לפתרון!
+
+### אודות
+https://14-05075573.zappy5.app/about
+מאחורי מכתבי ההתראה המהירים עומד עורך דין מנוסה שמאמין שצדק צריך להיות זמין לכולם. קראו על החזון, המקצועיות והמחויבות ליעילות משפטית ללא פשרות.
+
+### שאלות נפוצות
+https://14-05075573.zappy5.app/faq
+מתלבטים איך זה עובד? קבלו תשובות לשאלות נפוצות על מכתבי התראה, תביעות קטנות ועלויות. כל מה שצריך לדעת לפני שפונים — במקום אחד. גללו עכשיו לשקט נפשי!
+
+### צור קשר
+https://14-05075573.zappy5.app/contact
+מוכנים לפעול? השאירו פרטים ונחזור אליכם במהירות עם מכתב התראה או כתב תביעה מותאם אישית. אל תתנו לבירוקרטיה לעכב אתכם — דברו איתנו עכשיו!
+
+### Products
+https://14-05075573.zappy5.app/products
+המוצרים שלנו - מכתבי התראה של עו"ד תוך 14 שעות
+
+### Cart
+https://14-05075573.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://14-05075573.zappy5.app/checkout
+תשלום
+
+### Login
+https://14-05075573.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://14-05075573.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://14-05075573.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://14-05075573.zappy5.app/product/:slug
+פרטי המוצר - מכתבי התראה של עו"ד תוך 14 שעות
+
+### Category
+https://14-05075573.zappy5.app/category/:slug
+מוצרים - מכתבי התראה של עו"ד תוך 14 שעות
+
+### תודה שפנית אלינו
+https://14-05075573.zappy5.app/thank-you
+מכתבי התראה של עו"ד תוך 14 שעות - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://14-05075573.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://14-05075573.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://14-05075573.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מכתבי התראה של עו"ד תוך 14 שעות
+A legal services website for a lawyer specializing in drafting warning letters and small claims lawsuits. The key differentiator is speed — documents are delivered within 24 hours. The service targets individuals who need professional legal documentation quickly, without the lengthy process of traditional legal representation. The brand positioning revolves around accessibility, efficiency, and professional legal expertise for everyday people.
+
+## Target Audience
+- אנשים פרטיים המעוניינים בהגשת תביעות קטנות
+- אנשים פרטיים לתביעות קטנות
+- בעלי עסקים קטנים
+- פרילנסרים למחלוקות שירות
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://14-05075573.zappy5.app/sitemap.xml
+- Robots: https://14-05075573.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://14-05075573.zappy5.app/llms-full.txt
+- Products (JSON): https://14-05075573.zappy5.app/products.json
+- Products (Google Merchant RSS): https://14-05075573.zappy5.app/product-feed.xml
