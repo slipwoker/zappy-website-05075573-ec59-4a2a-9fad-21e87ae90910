@@ -6259,3 +6259,32 @@ Description: מכתבי התראה של עו"ד תוך 14 שעות - תודה ש
 
 ---
 
+## Product Catalog
+
+### מכתב התראה + משלוח בדואר רשום / שליח
+URL: https://example.com/product/mktb-htrah-mshlvch-bdvar-rshvm-shlych-qqoa2c
+Price: 699.00 ILS (sale, was 799.00 ILS)
+Availability: In stock
+
+מכתב התראה מקצועי מנוסח על ידי AI ונבדק על ידי עורך דין, כולל אפשרות לבחירת אופן המשלוח: דואר רשום עם אישור מסירה, או מסירה אישית באמצעות שליח עד הבית. המסמך מוכן תוך 24 שעות מרגע קבלת כל הפרטים.
+
+---
+
+### כתב תביעה לתביעה קטנה
+URL: https://example.com/product/ktb-tbyah-ltbyah-ktnh-164e6j
+Price: 899.00 ILS (sale, was 999.00 ILS)
+Availability: In stock
+
+הכנת כתב תביעה לתביעות קטנות, מבוסס AI ומותאם אישית לכל נושא. מתאים לכל אדם ולכל סכסוך. אינו מתאים לבעלי עסקים. ללא התחייבות של הלקוח לייצוג ארוך ויקר
+
+---
+
+### מכתב התראה
+URL: https://example.com/product/mktb-htrah-b2jlj9
+Price: 499.00 ILS (sale, was 599.00 ILS)
+Availability: In stock
+
+מכתב התראה מבוסס AI ומותאם אישית לכל נושא. מתאים לכל אדם ולכל סכסוך. מתאים לבעלי עסקים מכל סוג. ללא התחייבות של הלקוח לייצוג ארוך ויקר
+
+---
+

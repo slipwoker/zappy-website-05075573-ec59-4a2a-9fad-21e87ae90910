@@ -80,7 +80,27 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 3**
+
+### מכתב התראה + משלוח בדואר רשום / שליח
+https://example.com/product/mktb-htrah-mshlvch-bdvar-rshvm-shlych-qqoa2c
+- Price: 699.00 ILS (sale, was 799.00 ILS)
+- Availability: In stock
+- Description: מכתב התראה מקצועי מנוסח על ידי AI ונבדק על ידי עורך דין, כולל אפשרות לבחירת אופן המשלוח: דואר רשום עם אישור מסירה, או מסירה אישית באמצעות שליח עד הבית. המסמך מוכן תוך 24 שעות מרגע קבלת כל הפרטים.
+
+### כתב תביעה לתביעה קטנה
+https://example.com/product/ktb-tbyah-ltbyah-ktnh-164e6j
+- Price: 899.00 ILS (sale, was 999.00 ILS)
+- Availability: In stock
+- Description: כתב תביעה לתביעה קטנה.
+- Image: https://example.com/assets/image-product-image-1784638085311-slah29.webp
+
+### מכתב התראה
+https://example.com/product/mktb-htrah-b2jlj9
+- Price: 499.00 ILS (sale, was 599.00 ILS)
+- Availability: In stock
+- Description: מכתב התראה חתום על ידי עו"ד על דף לוגו של משרד עוה"ד.
+- Image: https://example.com/assets/image-product-image-1784637797952-pvy0hc.webp
 
 ---
 

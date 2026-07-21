@@ -4,6 +4,44 @@
     <title>מכתבי התראה של עו&quot;ד תוך 14 שעות</title>
     <link>https://example.com</link>
     <description>Product feed for מכתבי התראה של עו&quot;ד תוך 14 שעות</description>
-    <lastBuildDate>Tue, 21 Jul 2026 12:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:09:12 GMT</lastBuildDate>
+    <item>
+      <g:id>5423dd2f-8cb6-497f-aaac-efb3d6d041c2</g:id>
+      <g:title>מכתב התראה + משלוח בדואר רשום / שליח</g:title>
+      <g:description>מכתב התראה מקצועי מנוסח על ידי AI ונבדק על ידי עורך דין, כולל אפשרות לבחירת אופן המשלוח: דואר רשום עם אישור מסירה, או מסירה אישית באמצעות שליח עד הבית. המסמך מוכן תוך 24 שעות מרגע קבלת כל הפרטים.</g:description>
+      <g:link>https://example.com/product/mktb-htrah-mshlvch-bdvar-rshvm-shlych-qqoa2c</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>799.00 ILS</g:price>
+      <g:sale_price>699.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>מכתבי התראה של עו&quot;ד תוך 14 שעות</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>18622243-a1f6-42ff-960e-ad9978812dbe</g:id>
+      <g:title>כתב תביעה לתביעה קטנה</g:title>
+      <g:description>כתב תביעה לתביעה קטנה.</g:description>
+      <g:link>https://example.com/product/ktb-tbyah-ltbyah-ktnh-164e6j</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1784638085311-slah29.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>999.00 ILS</g:price>
+      <g:sale_price>899.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>מכתבי התראה של עו&quot;ד תוך 14 שעות</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>55525d04-b629-4499-bf5a-e6b52ad67631</g:id>
+      <g:title>מכתב התראה</g:title>
+      <g:description>מכתב התראה חתום על ידי עו&quot;ד על דף לוגו של משרד עוה&quot;ד.</g:description>
+      <g:link>https://example.com/product/mktb-htrah-b2jlj9</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1784637797952-pvy0hc.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>599.00 ILS</g:price>
+      <g:sale_price>499.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>מכתבי התראה של עו&quot;ד תוך 14 שעות</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

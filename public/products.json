@@ -1,8 +1,73 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T12:35:43.856Z",
+  "generated_at": "2026-07-21T13:09:12.164Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 3,
+  "products": [
+    {
+      "id": "5423dd2f-8cb6-497f-aaac-efb3d6d041c2",
+      "slug": "mktb-htrah-mshlvch-bdvar-rshvm-shlych-qqoa2c",
+      "name": "מכתב התראה + משלוח בדואר רשום / שליח",
+      "name_translations": {},
+      "description": "מכתב התראה מקצועי מנוסח על ידי AI ונבדק על ידי עורך דין, כולל אפשרות לבחירת אופן המשלוח: דואר רשום עם אישור מסירה, או מסירה אישית באמצעות שליח עד הבית. המסמך מוכן תוך 24 שעות מרגע קבלת כל הפרטים.",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 699,
+      "base_price": 799,
+      "sale_price": 699,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mktb-htrah-mshlvch-bdvar-rshvm-shlych-qqoa2c",
+      "categories": [],
+      "updated_at": "2026-07-21T13:05:17.078Z"
+    },
+    {
+      "id": "18622243-a1f6-42ff-960e-ad9978812dbe",
+      "slug": "ktb-tbyah-ltbyah-ktnh-164e6j",
+      "name": "כתב תביעה לתביעה קטנה",
+      "name_translations": {},
+      "description": "<p>הכנת כתב תביעה לתביעות קטנות, מבוסס AI ומותאם אישית לכל נושא.</p><p>מתאים לכל אדם ולכל סכסוך.</p><p>אינו מתאים לבעלי עסקים.</p><p>ללא התחייבות של הלקוח לייצוג ארוך ויקר</p>",
+      "short_description": "כתב תביעה לתביעה קטנה.",
+      "sku": null,
+      "brand": null,
+      "price": 899,
+      "base_price": 999,
+      "sale_price": 899,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1784638085311-slah29.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/ktb-tbyah-ltbyah-ktnh-164e6j",
+      "categories": [],
+      "updated_at": "2026-07-21T12:51:08.580Z"
+    },
+    {
+      "id": "55525d04-b629-4499-bf5a-e6b52ad67631",
+      "slug": "mktb-htrah-b2jlj9",
+      "name": "מכתב התראה",
+      "name_translations": {},
+      "description": "<p>מכתב התראה מבוסס AI ומותאם אישית לכל נושא.</p><p>מתאים לכל אדם ולכל סכסוך.</p><p>מתאים לבעלי עסקים מכל סוג.</p><p>ללא התחייבות של הלקוח לייצוג ארוך ויקר</p>",
+      "short_description": "מכתב התראה חתום על ידי עו\"ד על דף לוגו של משרד עוה\"ד.\n",
+      "sku": null,
+      "brand": null,
+      "price": 499,
+      "base_price": 599,
+      "sale_price": 499,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1784637797952-pvy0hc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mktb-htrah-b2jlj9",
+      "categories": [],
+      "updated_at": "2026-07-21T12:45:23.780Z"
+    }
+  ]
 }
