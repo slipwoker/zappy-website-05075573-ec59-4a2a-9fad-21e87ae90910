@@ -763,7 +763,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </style>
 </head>
 <body>
-<div class="mobile-search-panel" id="mobile-search-panel">
+
+<script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script><div class="mobile-search-panel" id="mobile-search-panel">
       <div class="search-wrapper">
         <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off" />
         <button class="search-submit" id="mobile-search-submit" title="חיפוש">
@@ -775,9 +776,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       </div>
       <div class="search-results" id="mobile-search-results"></div>
     </div>
-  
-<script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "05075573-ec59-4a2a-9fad-21e87ae90910";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "05075573-ec59-4a2a-9fad-21e87ae90910";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -811,6 +810,9 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
         <!-- Categories will be loaded dynamically -->
       </ul>
     </li>
+  
+
+    
   <li><a href="/">בית</a></li><li><a href="/services">שירותים</a></li><li><a href="/about">אודות</a></li><li><a href="/faq">שאלות נפוצות</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-count">0</span></a><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off" />
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
@@ -1385,7 +1387,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
           </svg>
         </div>
         <div class="faq-questions-content">
-          <h3 class="faq-questions-question" style>איזה מידע עליי לספק כדי לקבל את המכתב?</h3>
+          <h3 class="faq-questions-question">איזה מידע עליי לספק כדי לקבל את המכתב?</h3>
           <p class="faq-questions-answer" style="color: rgb(18, 20, 23) !important;">כדי שנוכל לנסח עבורכם מכתב התראה אפקטיבי, נזדקק לפרטים הבסיסיים: שמכם המלא, פרטי הצד השני (שם, כתובת), תיאור תמציתי של האירוע או הסכסוך, פירוט הדרישה שלכם (סכום כסף, החזר מוצר, הפסקת הטרדה וכדומה), וכל מסמך תומך רלוונטי (הסכם, חשבונית, התכתבויות). אין צורך בידע משפטי מוקדם – אנו נדאג לכל הניסוח.</p>
         </div>
       </div>
@@ -1507,7 +1509,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     <div class="footer-grid">
       <!-- Company Info -->
       <div class="footer-col footer-company-col">
-        <img src="/assets/14-legal-services-logo-1784637304132-4ospdb.webp?v=1784637304132" alt="מכתבי התראה של עו&quot;ד תוך 14 שעות" class="logo" data-element-type="image" data-element-id="img-1784639148717-pjzdrlav0" data-zappy-footer-image="true" style decoding="async" width="35" height="35" />
+        <img src="/assets/14-legal-services-logo-1784637304132-4ospdb.webp?v=1784637304132" alt="מכתבי התראה של עו&quot;ד תוך 14 שעות" class="logo" data-element-type="image" data-element-id="img-1784639148717-pjzdrlav0" data-zappy-footer-image="true" decoding="async" width="35" height="35" />
         <p class="footer-tagline">משרד עורכי דין מוביל המספק שירותי מכתבי התראה מקצועיים תוך 24 שעות. אמינות, מהירות ומקצועיות ללא פשרות.</p>
       </div>
 
@@ -1529,7 +1531,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
         <ul class="footer-contact">
           <li>
             <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1784639148714-f8u8hismn" data-icon-type="fontawesome"></i></span>
-            <span class="contact-text"><a href="mailto:yoavyo4@gmail.com" style>yoavyo4@gmail.com</a></span>
+            <span class="contact-text"><a href="mailto:yoavyo4@gmail.com">yoavyo4@gmail.com</a></span>
           </li>
           <li>
             <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1784639148714-lhcerau0i" data-icon-type="fontawesome"></i></span>
